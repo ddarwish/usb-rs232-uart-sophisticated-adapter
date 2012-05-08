@@ -1,0 +1,1 @@
+converter.dsn - is a OrCAD Capture file
